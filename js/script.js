@@ -7,3 +7,4 @@ window.onload = function() {
     contactform.setAttribute('action', '//formspree.io/' + 'hongwang9851' +
         '@' + 'gmail' + '.' + 'com');
 }
+
